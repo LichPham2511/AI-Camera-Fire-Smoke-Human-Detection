@@ -25,7 +25,8 @@ Dataset: [Fire, Smoke, and Human Detector (Roboflow)](https://universe.roboflow.
 
 Below is an example of the detection result after training the model:  
 
-![Detection Result](1123.png)  
+![Detection Result](result.png)  
+
 <img width="640" height="480" alt="1123" src="https://github.com/user-attachments/assets/64eff83e-0878-4947-8e8e-ce2b12a410d4" />
 
 ## 📧 Support
